@@ -1,0 +1,17 @@
+{
+  "id": "Connector_Generic_Shielded/Conn_02x29_Row_Letter_Last_Shielded:Conn_02x29_Row_Letter_Last_Shielded",
+  "name": "Conn_02x29_Row_Letter_Last_Shielded",
+  "library": "Connector_Generic_Shielded",
+  "file": "Connector_Generic_Shielded.kicad_symdir/Conn_02x29_Row_Letter_Last_Shielded.kicad_sym",
+  "description": "Generic shielded connector, double row, 02x29, row letter last pin numbering scheme (pin number consists of a letter for the row and a number for the pin index in this row. 1a, ..., Na; 1b, ..., Nb)), script generated (kicad-library-utils/schlib/autogen/connector/)",
+  "datasheet": "",
+  "keywords": "connector",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector-generic-shielded@master/parts/Conn_02x29_Row_Letter_Last_Shielded/",
+  "part_path": "parts/Conn_02x29_Row_Letter_Last_Shielded",
+  "symbol_file": "parts/Conn_02x29_Row_Letter_Last_Shielded/Conn_02x29_Row_Letter_Last_Shielded.kicad_sym",
+  "source_library": "Connector_Generic_Shielded.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:34.752Z"
+}

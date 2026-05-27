@@ -1,0 +1,17 @@
+{
+  "id": "Connector_Generic_Shielded/Conn_02x39_Counter_Clockwise_Shielded:Conn_02x39_Counter_Clockwise_Shielded",
+  "name": "Conn_02x39_Counter_Clockwise_Shielded",
+  "library": "Connector_Generic_Shielded",
+  "file": "Connector_Generic_Shielded.kicad_symdir/Conn_02x39_Counter_Clockwise_Shielded.kicad_sym",
+  "description": "Generic shielded connector, double row, 02x39, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)",
+  "datasheet": "",
+  "keywords": "connector",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector-generic-shielded@master/parts/Conn_02x39_Counter_Clockwise_Shielded/",
+  "part_path": "parts/Conn_02x39_Counter_Clockwise_Shielded",
+  "symbol_file": "parts/Conn_02x39_Counter_Clockwise_Shielded/Conn_02x39_Counter_Clockwise_Shielded.kicad_sym",
+  "source_library": "Connector_Generic_Shielded.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:34.895Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Connector_Generic_Shielded/Conn_02x03_Odd_Even_Shielded:Conn_02x03_Odd_Even_Shielded",
+  "name": "Conn_02x03_Odd_Even_Shielded",
+  "library": "Connector_Generic_Shielded",
+  "file": "Connector_Generic_Shielded.kicad_symdir/Conn_02x03_Odd_Even_Shielded.kicad_sym",
+  "description": "Generic shielded connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",
+  "datasheet": "",
+  "keywords": "connector",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector-generic-shielded@master/parts/Conn_02x03_Odd_Even_Shielded/",
+  "part_path": "parts/Conn_02x03_Odd_Even_Shielded",
+  "symbol_file": "parts/Conn_02x03_Odd_Even_Shielded/Conn_02x03_Odd_Even_Shielded.kicad_sym",
+  "source_library": "Connector_Generic_Shielded.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:34.333Z"
+}

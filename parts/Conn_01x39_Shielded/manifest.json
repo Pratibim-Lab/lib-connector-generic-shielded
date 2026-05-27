@@ -1,0 +1,17 @@
+{
+  "id": "Connector_Generic_Shielded/Conn_01x39_Shielded:Conn_01x39_Shielded",
+  "name": "Conn_01x39_Shielded",
+  "library": "Connector_Generic_Shielded",
+  "file": "Connector_Generic_Shielded.kicad_symdir/Conn_01x39_Shielded.kicad_sym",
+  "description": "Generic shielded connector, single row, 01x39, script generated (kicad-library-utils/schlib/autogen/connector/)",
+  "datasheet": "",
+  "keywords": "connector",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector-generic-shielded@master/parts/Conn_01x39_Shielded/",
+  "part_path": "parts/Conn_01x39_Shielded",
+  "symbol_file": "parts/Conn_01x39_Shielded/Conn_01x39_Shielded.kicad_sym",
+  "source_library": "Connector_Generic_Shielded.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:33.690Z"
+}
